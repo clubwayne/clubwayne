@@ -1,0 +1,11 @@
+<!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css" scoped>
+img.GeneratedImage {
+width:300px;height:300px;margin:10px;border-width:6px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img src="https://lh3.googleusercontent.com/pw/AP1GczP8TnwKqpuR8pdaZJNdaHdgAbo3VsOgdjvEW7kV0GkD2abBN3M7x-4TODSw_Ac8BwCOhJ6ozRCf54yeAV714odvg3v7WyMuxuGPmG3JNc75g2Ock9tj=w2400" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." class="GeneratedImage">
